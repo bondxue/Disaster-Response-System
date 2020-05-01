@@ -77,5 +77,5 @@ There are three main Python scripts this project:
 
 ### Demo Display
 
-![display](images/display.png)
+<img src="https://github.com/bondxue/Disaster-Response-System/blob/master/images/display.png" width="500">
 
