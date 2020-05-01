@@ -77,4 +77,5 @@ There are three main Python scripts this project:
 
 ### Demo Display
 
-<img src="./images/display.PNG" alt="display" style="zoom:50%;" />
+![display](images/display.png)
+
