@@ -46,6 +46,7 @@ e.g., earthquake, flood, medical help, refugees
 3. create web app using Flask 
    
    + data visualizations using Plotly in the web app
+   + flask: used to depoly a data dashborad 
 
 ### Demo Display
 
